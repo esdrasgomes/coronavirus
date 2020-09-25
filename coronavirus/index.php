@@ -24,7 +24,7 @@
 						<img src="imagens/perfil.jpg"/> -->
 					<!-- </div> -->
 				<div class="nome-usuario">
-					<h6>Esdras Gomes</h6>
+					<h5>Esdras Gomes</h5>
 					<p>Administrador</p>
 				</div><!--nome-usuario-->
 				</div><!--box-usuario-->
@@ -36,13 +36,13 @@
 					<a href="">Casos</a>
 					<a href="">Casos por País</a>
 					<a href="">Gráfico</a>
-					<h2>O QUE É COVID-19?</h2>
-					<a href="#sobre">Tudo sobre Covid-19</a>
-					<h2>SINTOMAS</h2>
-					<a href="">Sintomas Graves</a>
-					<a href="">Todos os Sintomas</a>
-					<h2>COMO PREVENIR</h2>
-					<a href="">Formas de Prevenção</a>
+					<h2>TUDO SOBRE O COVID-19</h2>
+					<a href="#corona">O que é o coronavírus?</a>
+					<!-- <h2>SINTOMAS</h2> -->
+					<a href="#sintomas">Quais são os sintomas?</a>
+					<a href="#transmissao">Como é transmitido?</a>
+					<h2>DIAGNÓSTICOS</h2>
+					<a href="#diagnostico-clinico">1º Diagnóstico clínico</a>
 					<a href="">Tratamento</a>
 				</div><!--itens-menu-->
 			</div><!--menu-wraper-->
@@ -75,7 +75,7 @@
 
 			<div id="sobre" class="corona-card">
 				<div class="corona-header">
-					<h2>O QUE É O CORONAVÍRUS?</h2>
+					<h2 id="corona">O QUE É O CORONAVÍRUS?</h2>
 				</div>
 				<div class="corona-body">
 					<div class="classcorona-featured-1">
@@ -102,6 +102,124 @@
 					</div>
 				</div>
 			</div>
+
+			<div id="sobre" class="corona-card">
+				<div class="corona-header">
+					<h2 id="sintomas">Quais são os sintomas?</h2>
+				</div>
+				<div class="corona-body">
+					<div class="classcorona-featured-1">
+						<div class="row-corona">
+							<div class="col-corona-12">
+								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin-top: 20px;">
+								Os sintomas da COVID-19 podem variar de um resfriado, a uma Síndrome Gripal-SG (presença de um quadro respiratório agudo, caracterizado por, pelo menos dois dos seguintes sintomas: sensação febril ou febre associada a dor de garganta, dor de cabeça, tosse, coriza) até uma pneumonia severa. Sendo os sintomas mais comuns:<br><br>
+								<div>
+									
+									<ul style="text-align: left; color: #eee; margin-left: 50px;">
+										• Tosse<br>
+										• Febre<br>
+										• Coriza<br>
+										• Dor de garganta<br>
+										• Dificuldade para respirar<br>
+										• Perda de olfato (anosmia)<br>
+										• Alteração do paladar (ageusia)<br>
+										• Distúrbios gastrintestinais (náuseas/vômitos/diarreia)<br>
+										• Cansaço (astenia)<br>
+										• Diminuição do apetite (hiporexia)<br>
+										• Dispnéia ( falta de ar)
+									</ul>
+								</p>
+								<h3>
+									texto 2
+								</h3>
+							<!-- <div class="col-corona-6">
+								<p class="corona-dangerous">
+									texto
+								</p>
+								<h3>
+									texto 2
+								</h3>
+							</div> -->
+						</div>
+					</div>
+				</div>
+			</div><!-- corona-card -->
+
+			<div id="sobre" class="corona-card">
+				<div class="corona-header">
+					<h2 id="transmissao">Como é transmitido?</h2>
+				</div>
+				<div class="corona-body">
+					<div class="classcorona-featured-1">
+						<div class="row-corona">
+							<div class="col-corona-12">
+								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin-top: 20px;">
+								A transmissão acontece de uma pessoa doente para outra ou por contato próximo por meio de:
+								</p><br><br>
+							<div>
+									<ul style="text-align: left; color: #eee; margin-left: 50px;">
+										• Toque do aperto de mão contaminadas;<br>
+										• Gotículas de saliva;<br>
+										• Espirro;<br>
+										• Tosse;<br>
+										• Catarro;<br>
+										• Objetos ou superfícies contaminadas, como celulares, mesas, talheres, maçanetas, brinquedos, teclados de computador etc.
+									</ul>
+								
+								<h3>
+									texto 2
+								</h3>
+							<!-- <div class="col-corona-6">
+								<p class="corona-dangerous">
+									texto
+								</p>
+								<h3>
+									texto 2
+								</h3>
+							</div> -->
+						</div>
+					</div>
+				</div>
+			</div><!-- corona-card -->
+
+			<div id="sobre" class="corona-card">
+				<div class="corona-header">
+					<h2 id="diagnostico-clinico">Diagnóstico clínico</h2>
+				</div>
+				<div class="corona-body">
+					<div class="classcorona-featured-1">
+						<div class="row-corona">
+							<div class="col-corona-12">
+								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin-top: 20px;">
+								A transmissão acontece de uma pessoa doente para outra ou por contato próximo por meio de:<br><br>
+
+								O DIAGNÓSTICO CLÍNICO é realizado pelo médico atendente, que deve avaliar a possibilidade da doença, principalmente, em pacientes com a associação dos seguintes sinais e sintomas:<br><br>
+
+								• Febre, que pode estar presente no momento do exame clínico ou referida pelo paciente (sensação febril) de ocorrência recente.<br>
+								• Sintomas do trato respiratório (por exemplo, tosse, dispneia, coriza, dor de garganta)<br>
+								• Outros sintomas consistentes incluindo, mialgias, distúrbios gastrointestinais (diarreia/náuseas/vômitos), perda ou diminuição do olfato (anosmia) ou perda ou diminuição do paladar (ageusia).
+								</p>
+							<div>
+							
+								
+							<p style="text-align:justify; padding:0 50px; color: #eee !important; margin-top: 20px;">
+								Em crianças, além dos itens anteriores, considera-se também a obstrução nasal, a desidratação e a  falta de apetite (inapetência), na ausência de outro diagnóstico específico.
+								Em idosos, deve-se considerar também, critérios específicos de agravamento como: síncope (desmaio ou perda temporária de consciência), confusão mental, sonolência excessiva, irritabilidade e falta de apetite (inapetência).
+								O diagnóstico clínico da doença, também deve ser considerado em pacientes com doença grave do trato respiratório inferior sem causa clara, como é o caso de pacientes que se apresentem em Síndrome Respiratória Aguda Grave (SRAG). Nesta síndrome o indivíduo apresenta-se em franca dispneia/desconforto respiratório/dificuldade para respirar com saturação de oxigênio (O2) menor do que 95% em ar ambiente ou coloração azulada dos lábios ou rosto (cianose) ou queixa de pressão persistente no tórax.
+								Em crianças, a SRAG apresenta-se com os sinais e sintomas anteriores, devendo ser observados sinais característicos de esforço respiratório, tais como,  os batimentos de asa de nariz, tiragem intercostal, e, por fim, alteração na coloração das extremidades que ficam azuladas (cianose).
+							</p>
+							<!-- <div class="col-corona-6">
+								<p class="corona-dangerous">
+									texto
+								</p>
+								<h3>
+									texto 2
+								</h3>
+							</div> -->
+						</div>
+					</div>
+				</div>
+			</div><!-- corona-card -->
 
         
 

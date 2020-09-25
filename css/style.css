@@ -163,14 +163,14 @@ div.box-usuario {
 	margin-top: 2px;
 	text-align: center;
 }
-.nome-usuario h6 {
-	color:white;
-	margin-bottom: 0;
+.nome-usuario h5 {
+	color:#EEE;
+	margin-bottom: 5px;
 	font-weight: bold;
 }
 .nome-usuario p {
-	color: white;
-	font-size: 15px;
+	color: #ccc;
+	font-size: 16px;
 }
 
 /* Conteúdo principal do painel */
@@ -231,6 +231,15 @@ div.box-usuario {
 }
 .corona-card .corona-body .corona-featured-2 p.corona-notice {
 	color: #1100ff !important;
+}
+.corona-card .corona-body .corona-featured-1 p.corona-warning {
+	color: #ff00ff !important;
+}
+.corona-card .corona-body .corona-featured-1 h3 {
+	color: #AAA !important;
+}
+.corona-card .corona-body .corona-featured-2 h3 {
+	color: #AAA !important;
 }
 #corona-map {
 	margin-top: 20px;
