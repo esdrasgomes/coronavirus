@@ -13,7 +13,21 @@ body {
 	overflow-x: hidden;
 	background-color: #eee;
 }
-
+::-webkit-scrollbar {
+	width:12px;
+	height: 10px;
+}
+  
+	/* aqui Ã© para personalizar o fundo da barra, neste caso estou colocando um fundo cinza escuro*/
+::-webkit-scrollbar-track {
+	background:#333;
+}
+	 
+	/* aqui Ã© a alÃ§a da barra, que demonstra a altura que vocÃª estÃ¡ na pÃ¡gina
+	estou colocando uma cor azul clara nela*/
+::-webkit-scrollbar-thumb {
+	background: #777;
+}
 /*Pagina de login */
 .box-login {
 	max-width: 600px;
@@ -253,6 +267,7 @@ div.box-usuario {
 	color: #111 !important;
 }
 
+
 .box-content {
 	background-color: white;
 	padding: 18px;
@@ -402,6 +417,10 @@ div.box-usuario {
 	background-color: #00bfa5;
 	color: white;
 	border: 0;
+}
+.corona-card p span {
+	color: #FFF !important;
+	font-weight: 600;
 }
 
 /* Box de alerta */

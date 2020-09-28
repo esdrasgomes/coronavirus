@@ -43,7 +43,13 @@
 					<a href="#transmissao">Como é transmitido?</a>
 					<h2>DIAGNÓSTICOS</h2>
 					<a href="#diagnostico-clinico">1º Diagnóstico clínico</a>
+					<a href="#diagnostico-clinico-epidemiologico">2º Diagnóstico clínico-epidemiológico</a>
+					<a href="#diagnostico-clinico-imagem">1º Diagnóstico clínico-imagem</a>
+					<a href="#diagnostico-laboratorial">1º Diagnóstico laboratorial</a>
 					<a href="">Tratamento</a>
+					<h2>LINKS ÚTEIS</h2>
+					<a href="https://coronavirus.saude.gov.br/sobre-a-doenca" target="blank">Ministério da Saúde</a>
+					<a href="https://vitaminasprime.com/coronavirus/" target="blank">Vitaminas Prime</a>
 				</div><!--itens-menu-->
 			</div><!--menu-wraper-->
 		</div><!--menu-->
@@ -81,7 +87,7 @@
 					<div class="classcorona-featured-1">
 						<div class="row-corona">
 							<div class="col-corona-12">
-								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin-top: 20px;">
+								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin: 30px;">
 								Os coronavírus são uma grande família de vírus comuns em muitas espécies diferentes de animais, incluindo camelos, gado, gatos e morcegos. Raramente, os coronavírus que infectam animais podem infectar pessoas, como exemplo do MERS-CoV e SARS-CoV. Recentemente, em dezembro de 2019, houve a transmissão de um novo coronavírus (SARS-CoV-2), o qual foi identificado em Wuhan na China e causou a COVID-19, sendo em seguida disseminada e transmitida pessoa a pessoa.
 								<br><br>
 								A COVID-19 é uma doença causada pelo coronavírus, denominado SARS-CoV-2, que apresenta um espectro clínico variando de infecções assintomáticas a quadros graves. De acordo com a Organização Mundial de Saúde, a maioria (cerca de 80%) dos pacientes com COVID-19 podem ser assintomáticos ou oligossintomáticos (poucos sintomas), e aproximadamente 20% dos casos detectados requer atendimento hospitalar por apresentarem dificuldade respiratória, dos quais aproximadamente 5% podem necessitar de suporte ventilatório.
@@ -111,7 +117,7 @@
 					<div class="classcorona-featured-1">
 						<div class="row-corona">
 							<div class="col-corona-12">
-								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin-top: 20px;">
+								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin: 30px;">
 								Os sintomas da COVID-19 podem variar de um resfriado, a uma Síndrome Gripal-SG (presença de um quadro respiratório agudo, caracterizado por, pelo menos dois dos seguintes sintomas: sensação febril ou febre associada a dor de garganta, dor de cabeça, tosse, coriza) até uma pneumonia severa. Sendo os sintomas mais comuns:<br><br>
 								<div>
 									
@@ -153,7 +159,7 @@
 					<div class="classcorona-featured-1">
 						<div class="row-corona">
 							<div class="col-corona-12">
-								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin-top: 20px;">
+								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin: 30px;">
 								A transmissão acontece de uma pessoa doente para outra ou por contato próximo por meio de:
 								</p><br><br>
 							<div>
@@ -190,7 +196,7 @@
 					<div class="classcorona-featured-1">
 						<div class="row-corona">
 							<div class="col-corona-12">
-								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin-top: 20px;">
+								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin: 30px;">
 								A transmissão acontece de uma pessoa doente para outra ou por contato próximo por meio de:<br><br>
 
 								O DIAGNÓSTICO CLÍNICO é realizado pelo médico atendente, que deve avaliar a possibilidade da doença, principalmente, em pacientes com a associação dos seguintes sinais e sintomas:<br><br>
@@ -202,7 +208,7 @@
 							<div>
 							
 								
-							<p style="text-align:justify; padding:0 50px; color: #eee !important; margin-top: 20px;">
+							<p style="text-align:justify; padding:0 50px; color: #eee !important; margin: 30px;">
 								Em crianças, além dos itens anteriores, considera-se também a obstrução nasal, a desidratação e a  falta de apetite (inapetência), na ausência de outro diagnóstico específico.
 								Em idosos, deve-se considerar também, critérios específicos de agravamento como: síncope (desmaio ou perda temporária de consciência), confusão mental, sonolência excessiva, irritabilidade e falta de apetite (inapetência).
 								O diagnóstico clínico da doença, também deve ser considerado em pacientes com doença grave do trato respiratório inferior sem causa clara, como é o caso de pacientes que se apresentem em Síndrome Respiratória Aguda Grave (SRAG). Nesta síndrome o indivíduo apresenta-se em franca dispneia/desconforto respiratório/dificuldade para respirar com saturação de oxigênio (O2) menor do que 95% em ar ambiente ou coloração azulada dos lábios ou rosto (cianose) ou queixa de pressão persistente no tórax.
@@ -220,6 +226,66 @@
 					</div>
 				</div>
 			</div><!-- corona-card -->
+
+			<div id="sobre" class="corona-card">
+				<div class="corona-header">
+					<h2 id="diagnostico-clinico-epidemiologico">DIAGNÓSTICO CLÍNICO-EPIDEMIOLÓGICO</h2>
+				</div>
+				<div class="corona-body">
+					<div class="classcorona-featured-1">
+						<div class="row-corona">
+							<div class="col-corona-12">
+								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin: 30px;">
+								O <span>DIAGNÓSTICO CLÍNICO-EPIDEMIOLÓGICO</span> é realizado pelo médico atendente no qual considera-se:<br><br>
+
+								• Casos de paciente com a associação dos sinais e sintomas supracitados ou SRAG MAIS histórico de contato próximo ou domiciliar, nos últimos 14 dias antes do aparecimento dos sintomas, com caso confirmado laboratorialmente para COVID-19 e para o qual não foi possível realizar a investigação laboratorial específica.</p>
+							<div>
+						</div>
+					</div>
+				</div>
+			</div><!-- corona-card -->
+
+			<div id="sobre" class="corona-card">
+				<div class="corona-header">
+					<h2 id="diagnostico-clinico-imagem">DIAGNÓSTICO CLÍNICO-IMAGEM</h2>
+				</div>
+				<div class="corona-body">
+					<div class="classcorona-featured-1">
+						<div class="row-corona">
+							<div class="col-corona-12">
+								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin: 40px 0;">
+								• caso de sintomas respiratório mais febre ou SRAG ou óbito por SRAG que não foi possível confirmar ou descartar por critério laboratorial E que apresente alterações tomográficas.</p>
+							<div>
+						</div>
+					</div>
+				</div>
+			</div><!-- corona-card -->
+
+			<div id="sobre" class="corona-card">
+				<div class="corona-header">
+					<h2 id="diagnostico-laboratorial">DIAGNÓSTICO LABORATORIAL</h2>
+				</div>
+				<div class="corona-body">
+					<div class="classcorona-featured-1">
+						<div class="row-corona">
+							<div class="col-corona-12">
+								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin: 30px 0;">
+								Caso o paciente apresente os sintomas respiratórios mais febre ou SRAG. O profissional de saúde poderá solicitar os seguintes exames laboratoriais:<br><br>
+
+								• De biologia molecular, (RT-PCR em tempo real) que diagnostica tanto a COVID-19, a Influenza ou a presença de Vírus Sincicial Respiratório (VSR) normalmente até o oitavo dia de início de sintomas.<br>
+								• Imunológico, que detecta, ou não, a presença de anticorpos em amostras coletadas a partir do oitavo dia de início dos sintomas. Sendo eles:<br>
+								• Ensaio imunoenzimático (Enzyme-Linked Immunosorbent Assay - ELISA);<br>
+								• Imunocromatografia (teste rápido) para detecção de anticorpos;<br>
+								• Imunoensaio por Eletroquimioluminescência (ECLIA).<br>
+								• Pesquisa de antígenos: resultado reagente para SARS-CoV-2 pelo método de Imunocromatografia para detecção de antígeno.<br></p>
+							<div>
+						</div>
+					</div>
+				</div>
+			</div><!-- corona-card -->
+
+
+			
 
         
 
