@@ -44,9 +44,11 @@
 					<h2>DIAGNÓSTICOS</h2>
 					<a href="#diagnostico-clinico">1º Diagnóstico clínico</a>
 					<a href="#diagnostico-clinico-epidemiologico">2º Diagnóstico clínico-epidemiológico</a>
-					<a href="#diagnostico-clinico-imagem">1º Diagnóstico clínico-imagem</a>
-					<a href="#diagnostico-laboratorial">1º Diagnóstico laboratorial</a>
-					<a href="">Tratamento</a>
+					<a href="#diagnostico-clinico-imagem">3º Diagnóstico clínico-imagem</a>
+					<a href="#diagnostico-laboratorial">4º Diagnóstico laboratorial</a>
+					<a href="#laboratorial-assintomatico">4º Diagnóstico laboratorial em assintomático</a>
+					<h2>COMO SE PROTEGER</h2>
+					<a href="#proteger">Formas de se protejer</a>
 					<h2>LINKS ÚTEIS</h2>
 					<a href="https://coronavirus.saude.gov.br/sobre-a-doenca" target="blank">Ministério da Saúde</a>
 					<a href="https://vitaminasprime.com/coronavirus/" target="blank">Vitaminas Prime</a>
@@ -92,9 +94,6 @@
 								<br><br>
 								A COVID-19 é uma doença causada pelo coronavírus, denominado SARS-CoV-2, que apresenta um espectro clínico variando de infecções assintomáticas a quadros graves. De acordo com a Organização Mundial de Saúde, a maioria (cerca de 80%) dos pacientes com COVID-19 podem ser assintomáticos ou oligossintomáticos (poucos sintomas), e aproximadamente 20% dos casos detectados requer atendimento hospitalar por apresentarem dificuldade respiratória, dos quais aproximadamente 5% podem necessitar de suporte ventilatório.
 								</p>
-								<h3>
-									texto 2
-								</h3>
 							</div>
 							<!-- <div class="col-corona-6">
 								<p class="corona-dangerous">
@@ -118,10 +117,10 @@
 						<div class="row-corona">
 							<div class="col-corona-12">
 								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin: 30px;">
-								Os sintomas da COVID-19 podem variar de um resfriado, a uma Síndrome Gripal-SG (presença de um quadro respiratório agudo, caracterizado por, pelo menos dois dos seguintes sintomas: sensação febril ou febre associada a dor de garganta, dor de cabeça, tosse, coriza) até uma pneumonia severa. Sendo os sintomas mais comuns:<br><br>
+								Os sintomas da COVID-19 podem variar de um resfriado, a uma Síndrome Gripal-SG (presença de um quadro respiratório agudo, caracterizado por, pelo menos dois dos seguintes sintomas: sensação febril ou febre associada a dor de garganta, dor de cabeça, tosse, coriza) até uma pneumonia severa. Sendo os sintomas mais comuns:<br>
 								<div>
 									
-									<ul style="text-align: left; color: #eee; margin-left: 50px;">
+									<ul style="text-align: left; color: #eee; margin-left: 80px;">
 										• Tosse<br>
 										• Febre<br>
 										• Coriza<br>
@@ -135,9 +134,7 @@
 										• Dispnéia ( falta de ar)
 									</ul>
 								</p>
-								<h3>
-									texto 2
-								</h3>
+								
 							<!-- <div class="col-corona-6">
 								<p class="corona-dangerous">
 									texto
@@ -161,9 +158,9 @@
 							<div class="col-corona-12">
 								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin: 30px;">
 								A transmissão acontece de uma pessoa doente para outra ou por contato próximo por meio de:
-								</p><br><br>
+								</p><br>
 							<div>
-									<ul style="text-align: left; color: #eee; margin-left: 50px;">
+									<ul style="text-align: left; color: #eee; margin-left: 80px;">
 										• Toque do aperto de mão contaminadas;<br>
 										• Gotículas de saliva;<br>
 										• Espirro;<br>
@@ -172,9 +169,7 @@
 										• Objetos ou superfícies contaminadas, como celulares, mesas, talheres, maçanetas, brinquedos, teclados de computador etc.
 									</ul>
 								
-								<h3>
-									texto 2
-								</h3>
+								
 							<!-- <div class="col-corona-6">
 								<p class="corona-dangerous">
 									texto
@@ -253,7 +248,7 @@
 					<div class="classcorona-featured-1">
 						<div class="row-corona">
 							<div class="col-corona-12">
-								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin: 40px 0;">
+								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin: 40px 0; margin-left: 40px;">
 								• caso de sintomas respiratório mais febre ou SRAG ou óbito por SRAG que não foi possível confirmar ou descartar por critério laboratorial E que apresente alterações tomográficas.</p>
 							<div>
 						</div>
@@ -269,7 +264,7 @@
 					<div class="classcorona-featured-1">
 						<div class="row-corona">
 							<div class="col-corona-12">
-								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin: 30px 0;">
+								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin: 30px 0; margin-left: 40px;">
 								Caso o paciente apresente os sintomas respiratórios mais febre ou SRAG. O profissional de saúde poderá solicitar os seguintes exames laboratoriais:<br><br>
 
 								• De biologia molecular, (RT-PCR em tempo real) que diagnostica tanto a COVID-19, a Influenza ou a presença de Vírus Sincicial Respiratório (VSR) normalmente até o oitavo dia de início de sintomas.<br>
@@ -284,10 +279,50 @@
 				</div>
 			</div><!-- corona-card -->
 
+			<div id="sobre" class="corona-card">
+				<div class="corona-header">
+					<h2 id="laboratorial-assintomatico">DIAGNÓSTICO LABORATORIAL EM INDIVÍDUO ASSINTOMÁTICO<h> (pessoa sem sintomas) que realizou:</h2>
+				</div>
+				<div class="corona-body">
+					<div class="classcorona-featured-1">
+						<div class="row-corona">
+							<div class="col-corona-12">
+								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin: 30px 0; margin-left: 40px;">
+								• Exame de Biologia Molecular com resultado DETECTÁVEL para SARS-CoV-2 realizado pelo método RT-PCR em tempo real.<br>
+								• Exame de Imunológico com resultado REAGENTE para IgM e/ou IgA realizado pelos seguintes métodos:  Ensaio imunoenzimático (ELISA) e Imunocromatografia (teste rápido) para detecção de anticorpos.<br></p>
+							<div>
+						</div>
+					</div>
+				</div>
+			</div><!-- corona-card -->
 
-			
-
-        
+			<div id="sobre" class="corona-card">
+				<div class="corona-header">
+					<h2 id="proteger">COMO SE PROTEGER</h2>
+				</div>
+				<div class="corona-body">
+					<div class="classcorona-featured-1">
+						<div class="row-corona">
+							<div class="col-corona-12">
+								<p class="corona-dangerous" style="text-align:justify; padding:0 50px; color: #eee !important; margin: 30px 0; margin-left: 40px;">
+								As recomendações de prevenção à COVID-19 são as seguintes:<br><br>
+								• Lave com frequência as mãos até a altura dos punhos, com água e sabão, ou então higienize com álcool em gel 70%. Essa frequência deve ser ampliada quando estiver em algum ambiente público (ambientes de trabalho, prédios e instalações comerciais, etc), quando utilizar estrutura de transporte público ou tocar superfícies e objetos de uso compartilhado.<br>
+								• Ao tossir ou espirrar, cubra nariz e boca com lenço ou com a parte interna do cotovelo.<br>
+								• Não tocar olhos, nariz, boca ou a máscara de proteção fácil com as mãos não higienizadas.<br>
+								• Se tocar olhos, nariz, boca ou a máscara, higienize sempre as mãos como já indicado.<br>
+								• Mantenha distância mínima de 1 (um) metro entre pessoas em lugares públicos e de convívio social. Evite abraços, beijos e apertos de mãos. Adote um comportamento amigável sem contato físico, mas sempre com um sorriso no rosto.<br>
+								• Higienize com frequência o celular, brinquedos das crianças e outro objetos que são utilizados com frequência.<br>
+								• Não compartilhe objetos de uso pessoal como talheres, toalhas, pratos e copos.<br>
+								• Mantenha os ambientes limpos e bem ventilados.<br>
+								• Evite circulação desnecessária nas ruas, estádios, teatros, shoppings, shows, cinemas e igrejas.<br>
+								• Se estiver doente, evite contato próximo com outras pessoas, principalmente idosos e doentes crônicos, busque orientação pelos canais on-line disponibilizados pelo SUS ou atendimento nos serviços de saúde e siga as recomendações do profissional de saúde.<br>
+								• Durma bem e tenha uma alimentação saudável.<br>
+								• Recomenda-se a utilização de máscaras em todos os ambientes.  As máscaras de tecido (caseiras/artesanais), não são Equipamentos de Proteção Individual (EPI), mas podem funcionar como uma barreira física, em especial contra a saída de gotículas potencialmente contaminadas.<br></p>
+							<div>
+						</div>
+					</div>
+				</div>
+			</div><!-- corona-card -->
 
 		</div><!--content-->
 
