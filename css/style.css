@@ -262,9 +262,31 @@ div.box-usuario {
 	background-color: rgba(18, 22, 25, 1);
 }
 .corona-table th {
-	background-color:#ccc !important;
+	background-color:#4c4c4c !important;
 	padding: 6px 15px !important;
 	color: #111 !important;
+}
+.corona-card .corona-table * {
+	background-color: #333;
+	color: #eee !important;
+}
+.corona-card .corona-table * :hover {
+	/* background: #3c3c3c !important; */
+}
+
+.corona-card .corona-body.white-background {
+	/* background-color: #333 !important; */
+}
+.corona-card .corona-table {
+	
+}
+
+.corona-table td .corona-cases-bar > div span, .corona-table td .corona-deaths-bar > div span {
+    color: #ebebeb;
+    font-weight: 600;
+    mix-blend-mode: lighten !important;
+    font-style: normal !important;
+    text-shadow: 1px 1px 1px rgba(255,255,255,0.5);
 }
 
 
