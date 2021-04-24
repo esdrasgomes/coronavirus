@@ -1,6 +1,14 @@
 # coronavirus
  Esta aplicação tem como objetivo trazer dados atualizados sobre a Covid-19 no Brasil e no mundo.
- Os dados são atualizados a cada 15 minutos através da API disponibilizada pela Vitaminas Prime (site: https://vitaminasprime.com/coronavirus/).
+ Os dados são atualizados a cada 15 minutos através da API disponibilizada pela Vitaminas Prime.
+ 
+ Site: https://vitaminasprime.com/coronavirus/
+ 
+ As informações sobre sintomas, como se prevenir, diagnósticos, etc, são disponibilizadas pelo site do Ministério da Saúde.
+ 
+ Site: https://coronavirus.saude.gov.br/sobre-a-doenca
+ 
+ <hr>
  
  ## Imagens da aplicação
  ### Tela inicial
@@ -14,6 +22,6 @@ No mapa temos os dados por país. Ao clicar nas bolinhas, o usuário é direcion
 ![Captura de tela de 2021-04-24 18-26-26](https://user-images.githubusercontent.com/55815494/115973494-c3145b00-a52b-11eb-8b6e-5c95119a02ba.png)
 
 ### Gráfico
-Aqui temos o gráfico de todos os países, com os dados de casos confirmados, número de mortes equantidade de vacinas (doses já aplicadas).
+Aqui temos o gráfico de todos os países, com os dados de casos confirmados, número de mortes e quantidade de vacinas (doses já aplicadas).
 
 ![Captura de tela de 2021-04-24 18-26-31](https://user-images.githubusercontent.com/55815494/115973600-ac223880-a52c-11eb-9714-90639011b2ca.png)
